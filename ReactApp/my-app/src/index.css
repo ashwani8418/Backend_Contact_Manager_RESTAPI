@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine:bold,bolditalic|Inconsolata:italic|');
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Tangerine', serif;
+}
+body {
+   margin: 0;
+}
